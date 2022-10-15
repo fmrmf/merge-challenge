@@ -1,0 +1,12 @@
+name: merge-challenge
+
+plugins:
+  - name: notebook
+  - name: etherscan
+
+default_ecosystem: ethereum
+
+ethereum:
+  default_network: mainnet
+  mainnet:
+    default_provider: alchemy

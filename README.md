@@ -1,3 +1,3 @@
 # merge-challenge
 
-Some notebooks to play around with data at the merge.
+Some notebooks to play around with [data at the merge](https://esp.ethereum.foundation/merge-data-challenge).
