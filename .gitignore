@@ -123,3 +123,6 @@ version.py
 
 # Ape stuff
 .build/
+
+# large data csvs
+data/
