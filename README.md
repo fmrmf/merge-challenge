@@ -1,8 +1,6 @@
 # merge-challenge
 
-Some notebooks to play around with [data at the merge](https://esp.ethereum.foundation/merge-data-challenge).
-
-Take a look at the [blog post](https://hackmd.io/@fmrmf/HyFXVQdVo) explaining the notebooks in detail.
+Some notebooks to play around with [data at the merge](https://esp.ethereum.foundation/merge-data-challenge). Blog post explaining the notebooks in detail is [here](https://hackmd.io/@fmrmf/HyFXVQdVo).
 
 
 ## Setup
